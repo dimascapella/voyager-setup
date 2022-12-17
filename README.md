@@ -81,4 +81,4 @@
 
     #### Tampilan Form
     Form yang dibuat sebelumnya akan terlihat seperti digambar (*untuk data relasi akan secara otomatis muncul semua pada form dengan tipe input dropdown*)
-    ![Contoh Tampilan][https://github.com/dimascapella/voyager-setup/tree/master/public/image-md/form.png "Contoh Tampilan"]
+    ![Contoh Tampilan](https://github.com/dimascapella/voyager-setup/tree/master/public/image-md/form.png "Contoh Tampilan")
